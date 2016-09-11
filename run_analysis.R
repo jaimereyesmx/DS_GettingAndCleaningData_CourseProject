@@ -37,5 +37,6 @@ mean_std_measurements <- cbind(mean_std_measurements, Activity = mergedLabels$ac
 mean_std_measurements_melted <- melt(mean_std_measurements, id = c("Activity", "Subject"))
 tidyDataSet <- dcast(mean_std_measurements_melted, Activity + Subject ~ variable, mean)
 
-# Save result in CSV format
+# Save result in CSV and TXT format
 write.csv(tidyDataSet, "tidy_activity_recognition_data_set.csv")
+write.table(tidyDataSet, "tidy_activity_recognition_data_set.txt", row.names = FALSE)
