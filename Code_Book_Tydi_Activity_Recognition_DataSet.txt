@@ -1,0 +1,210 @@
+Tidy Activity Recognition Dataset
+
+Activity
+   WALKING
+   WALKING_UPSTAIRS
+   WALKING_DOWNSTAIRS
+   SITTING
+   STANDING
+   LAYING
+
+Subject
+   Values from 1 to 30 corresponding to the subject performing a given activity.Read UCI HAR Dataset\README.txt for additional information.
+   
+1 tBodyAcc-mean()-X
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information
+
+2 tBodyAcc-mean()-Y
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+3 tBodyAcc-mean()-Z
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+4 tBodyAcc-std()-X
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+5 tBodyAcc-std()-Y
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+6 tBodyAcc-std()-Z
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+41 tGravityAcc-mean()-X
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+42 tGravityAcc-mean()-Y
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+43 tGravityAcc-mean()-Z
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+44 tGravityAcc-std()-X
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+45 tGravityAcc-std()-Y
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+46 tGravityAcc-std()-Z
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+81 tBodyAccJerk-mean()-X
+Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+
+82 tBodyAccJerk-mean()-Y
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+83 tBodyAccJerk-mean()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+84 tBodyAccJerk-std()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+85 tBodyAccJerk-std()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+86 tBodyAccJerk-std()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+121 tBodyGyro-mean()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+122 tBodyGyro-mean()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+123 tBodyGyro-mean()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+124 tBodyGyro-std()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+125 tBodyGyro-std()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+126 tBodyGyro-std()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+161 tBodyGyroJerk-mean()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+162 tBodyGyroJerk-mean()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+163 tBodyGyroJerk-mean()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+164 tBodyGyroJerk-std()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+165 tBodyGyroJerk-std()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+166 tBodyGyroJerk-std()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+201 tBodyAccMag-mean()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+202 tBodyAccMag-std()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+214 tGravityAccMag-mean()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+215 tGravityAccMag-std()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+227 tBodyAccJerkMag-mean()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+228 tBodyAccJerkMag-std()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+240 tBodyGyroMag-mean()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+241 tBodyGyroMag-std()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+253 tBodyGyroJerkMag-mean()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+254 tBodyGyroJerkMag-std()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+266 fBodyAcc-mean()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+267 fBodyAcc-mean()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+268 fBodyAcc-mean()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+269 fBodyAcc-std()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+270 fBodyAcc-std()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+271 fBodyAcc-std()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+345 fBodyAccJerk-mean()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+346 fBodyAccJerk-mean()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+347 fBodyAccJerk-mean()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+348 fBodyAccJerk-std()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+349 fBodyAccJerk-std()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+350 fBodyAccJerk-std()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+424 fBodyGyro-mean()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+425 fBodyGyro-mean()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+426 fBodyGyro-mean()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+427 fBodyGyro-std()-X   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+428 fBodyGyro-std()-Y   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+429 fBodyGyro-std()-Z   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+503 fBodyAccMag-mean()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+504 fBodyAccMag-std()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+516 fBodyBodyAccJerkMag-mean()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+517 fBodyBodyAccJerkMag-std()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+529 fBodyBodyGyroMag-mean()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+530 fBodyBodyGyroMag-std()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+542 fBodyBodyGyroJerkMag-mean()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
+   
+543 fBodyBodyGyroJerkMag-std()   
+   Average of each variable for each activity and each subject. Read UCI HAR Dataset\features_info.txt for additional information.
